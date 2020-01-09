@@ -1,6 +1,7 @@
 # Making a basic dice game by using Java programming language
 
 TURKISH
+
 Kaynak kodu açıklaması:
 Program çalıştıktan sonra ilk olarak, ekrana “Zar Oyununa Hoşgeldiniz. İyi Oyunlar!” yazısını bastıracak. Ardından verdiğimiz int round = 1; değeri ile round sayacını 1 rakamına eşitleyeceğiz.
 
